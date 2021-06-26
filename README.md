@@ -56,6 +56,7 @@ In addition, by using outcomes based on goals amount, we can see how setting dif
 
 ### Analysis of Outcomes Based on Goals
 
+![Test](https://github.com/alecngai/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
