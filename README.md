@@ -69,6 +69,18 @@ Here we can see majority of the fundraisers are launched April to August, with M
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://github.com/alecngai/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+This chart is created by filtering the data by subcategory *"Plays"* using the following columns: *Goal Range, Number Successful, Number Failed, Number Cancelled, Total Projects, Percentage Successful, Percentage Failed, Percentage cancelled*. \
+
+_**Goal Range**_ - From 0 to greater than 50,000 by increments of 5,000 \
+_**Number Successful**_ - Number of successful fundraisers in that goal range, using COUNTIFS to check if successful, is in Plays subcategory and in goal range. \
+_**Number Failed**_ - Number of failed fundraisers in that goal range, using COUNTIFS to check if failed, is in Plays subcategory and in goal range. \
+_**Number Cancelled**_ - Number of cancelled fundraisers in that goal range, using COUNTIFS to check if cancelled, is in Plays subcategory and in goal range. \
+_**Total Projects**_ - Sum of Number of Successful, Failed, and Cancelled fundraisers, excluding Live fundraisers \
+_**Percentage Successful**_ - Percentage Succesful, calcualted by Number of Succesful divided by Total projects \
+_**Percentage Failed**_ - Percentage Failed, calcualted by Number of Failed divided by Total projects \
+_**Percentage Cancelled**_ - Percentage Succesful, calcualted by Number of Failed divided by Total projects \
+ 
+
 ### Challenges and Difficulties Encountered
 
 ## Results
