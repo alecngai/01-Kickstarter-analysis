@@ -52,6 +52,8 @@ In addition, by using outcomes based on goals amount, we can see how setting dif
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes_vs_Launch](C:\Users\Alec\Downloads\BootCamp\Module 1\Kickstarter-analysis\Resources)/
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
