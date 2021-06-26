@@ -52,7 +52,7 @@ In addition, by using outcomes based on goals amount, we can see how setting dif
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](https://raw.githubusercontent.com/alecngai/Kickstarter-analysis/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/alecngai/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
