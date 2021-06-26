@@ -57,9 +57,9 @@ In addition, by using outcomes based on goals amount, we can see how setting dif
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This chart was created from a pivot table, the pivot table contains _Date Created Conversion_ in Rows, *outcomes* for columns, *count of outcomes* for values and *parent category, years* for the filter.
 The data is then filtered in the parent category by "Theater". Here we are visualizing campaign outcomes ("successful", "failed", and "canceled") based on launch date, in parent category "theatre". 
 The reasoning behind this is, Louise can see other fundraisers of similar genre and their outcomes based on when they launched their fundraiser. Here we can see in between May and June there are more than 100 successful 
-fundraisers almost double the failed amount. We can see the trend of the most amount of fundraisers start in this period of time.  While the worst time would be in December, where there are similar amount of success and failed fundraisers that launch around this time. 
+fundraisers almost double the failed amount. We can see the trend of the most amount of fundraisers start in this period of time.  While the worst time would be in December, where there are similar amount of success and failed fundraisers that launch around this time. In May we have 111 successful fundraisers out of 166 and in June 100 out of 153. These two months have the highest success rate of 66.87% to 65.36% of success if launched in between these two months. 
 
-
+![Percentage_of_Success_vs_Launch_Date](https://github.com/alecngai/Kickstarter-analysis/blob/main/Resources/Percentage_of_Success_vs_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
