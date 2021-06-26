@@ -54,7 +54,7 @@ In addition, by using outcomes based on goals amount, we can see how setting dif
 
 ![Theater_Outcomes_vs_Launch](https://github.com/alecngai/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This chart was created from a pivot table, the pivot table contains Date Created Conversion in Rows, outcomes for columns, count of outcomes for values and parent category, years for the filter.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This chart was created from a pivot table, the pivot table contains _Date Created Conversion_ in Rows, *outcomes* for columns, *count of outcomes* for values and *parent category, years* for the filter.
 The data is then filtered in the parent category by "Theater". Here we are visualizing campaign outcomes ("successful", "failed", and "canceled") based on launch date, in parent category "theatre". 
 The reasoning behind this is, Louise can see other fundraisers of similar genre and their outcomes based on when they launched their fundraiser. Here we can see in between May and June there are more than 100 successful 
 fundraisers almost double the failed amount. We can see the trend of the most amount of fundraisers start in this period of time.  While the worst time would be in December, where there are similar amount of success and failed fundraisers that launch around this time. 
