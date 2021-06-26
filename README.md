@@ -23,11 +23,11 @@ Currency - The type of currency the fundraiser is using for their goal and pledg
 deadline - Unix timestamp as to when the fundraiser is due to conclude  
 launched_at - Unix timestamp as to when the fundraiser is created 
 staff_pick - Signifies if the fundraiser were favourited by the staff \
-backers_count - The amount of people who pledged to the fundraiser 
+backers_count - The amount of people who pledged to the fundraiser \
 spotlight - True if the fundraiser requires a spotlight, false if it does not \
 Category and Subcategory - Consists of two lists of main category and sub category to help sort the fundraisers into different groups \
 Percentage Funded - The amount of which the goal has been reached, rounded and converted into a percentage \
-Average Donation - The amount of which the average amount a backer will commit to a fundraiser, calcualted by pledged divided by backers_count 
+Average Donation - The amount of which the average amount a backer will commit to a fundraiser, calcualted by pledged divided by backers_count \
 Parent Category - Seperated the two list of categories into a main parent category, consisting of: \
 	Film & Video, Food, Games, Music, Photography, Publishing, Technology, Theater   \
 Subcategory - Seperated the two list of categories into a subcategory, consisting of: \
