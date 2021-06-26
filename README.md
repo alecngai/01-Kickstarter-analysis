@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-	In this project we are analayzing kickstarter fundraising data (Kickstarter_Challenge.xlsx) to provide clarity on two main issues, 
+In this project we are analayzing kickstarter fundraising data (Kickstarter_Challenge.xlsx) to provide clarity on two main issues, 
 Outcomes Based on Luanch Date, and Outcomes based on Goals. The Kickstarter datas consists of 21 Columns, and 4115 Rows of data. The quantitative variables are:
 ID, Goal, Pledged, deadline, launched_at, Backers_count, Percentage Funded, Average Donation, Date Created Conversion,  Date Eneded Conversion, Year. 
 The Nominal Categorical variables are: Name, Blurb, Outcomes, Country, Currency, Category and Subcategory, Parent Category, Subcategory. The Binary Categorical 
