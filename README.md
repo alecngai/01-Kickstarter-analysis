@@ -15,8 +15,8 @@ Goal - Amount of money the fundraiser wishes to raise,
 Pledged - Amount of money raised by fund raiser 
 Outcome - Consists of 4 states:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cancelled - The fundraiser is cancelled  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failed - The fundraiser did not get enough money pledged to reach its goal 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Live - The fundraiser is currently still on-going 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failed - The fundraiser did not get enough money pledged to reach its goal  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Live - The fundraiser is currently still on-going  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful - The fundraiser has concluded and has more or equal amount of money pledged to their goal 
 Country - An two letter abbreviation of the country the fundraiser is currently located. 
 Currency - The type of currency the fundraiser is using for their goal and pledged amounts.  
