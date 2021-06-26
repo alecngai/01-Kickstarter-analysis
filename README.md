@@ -3,7 +3,7 @@
 ## Overview of Project
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this project we are analayzing kickstarter fundraising data (Kickstarter_Challenge.xlsx) to provide clarity on two main issues, 
-Outcomes Based on Luanch Date, and Outcomes based on Goals. The Kickstarter datas consists of 21 Columns, and 4115 Rows of data. The quantitative variables are:
+Outcomes Based on Luanch Date, and Outcomes based on Goals. The Kickstarter data consists of 21 Columns, and 4115 Rows of data. The quantitative variables are:
 ID, Goal, Pledged, deadline, launched_at, Backers_count, Percentage Funded, Average Donation, Date Created Conversion,  Date Eneded Conversion, Year. 
 The Nominal Categorical variables are: Name, Blurb, Outcomes, Country, Currency, Category and Subcategory, Parent Category, Subcategory. The Binary Categorical 
 variables consists of just spotlight. Using this data, we can extract an solution, and create charts to help our client visualize her solution to her problem. 
@@ -44,7 +44,8 @@ Year - Extracts the year from date created conversion.
 friendship and sonnets. She had a goal of $2,885.00,  unfortunately by the time her fundraiser has ended (March 16, 2015) she could not reach her goal 
 and was short $400.00. Due to this failure of only reaching 86% of her goal, she was interested in how other fundraiser campaigns fared in to relation 
 to their launch dates and their funding goals. We will help visualize the campaign outcomes in relation to launch dates and funding goals, to assist Louise
-in her decisions regarding her future fundraisers. 
+in her decisions regarding her future fundraisers. By utilizing outcomes based on launch date, we can see the trend on when the most successful fundraisers were created.
+In addition, by using outcomes based on goals amount, we can see how setting different amount of money for your fundraiser goal can equate to more successful fundraisers.  
 
 
 ## Analysis and Challenges
