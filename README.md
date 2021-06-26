@@ -27,7 +27,7 @@ _**backers_count**_ - The amount of people who pledged to the fundraiser \
 _**spotlight**_ - True if the fundraiser requires a spotlight, false if it does not \
 _**Category and Subcategory**_ - Consists of two lists of main category and sub category to help sort the fundraisers into different groups \
 _**Percentage Funded**_ - The amount of which the goal has been reached, rounded and converted into a percentage \
-_ **Average Donation**_ - The amount of which the average amount a backer will commit to a fundraiser, calcualted by pledged divided by backers_count \
+_**Average Donation**_ - The amount of which the average amount a backer will commit to a fundraiser, calcualted by pledged divided by backers_count \
 _**Parent Category**_ - Seperated the two list of categories into a main parent category, consisting of: \
 	Film & Video, Food, Games, Music, Photography, Publishing, Technology, Theater   \
 _**Subcategory**_ - Seperated the two list of categories into a subcategory, consisting of: \
@@ -52,7 +52,7 @@ In addition, by using outcomes based on goals amount, we can see how setting dif
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](Kickstarter-analysis\Resources\Theater_Outcomes_vs_Launch.png)/
+![Theater_Outcomes_vs_Launch](https://github.com/alecngai/Kickstarter-analysis/Kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)/
 
 ### Analysis of Outcomes Based on Goals
 
