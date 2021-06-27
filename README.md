@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns
+# An Analysis of Kickstarter Campaigns by Alec Ngai
 
 ## Overview of Project
 
