@@ -6,7 +6,7 @@
 outcomes based on launch date, and Outcomes based on Goals. The Kickstarter data consists of 21 Columns, and 4115 Rows of data. The quantitative variables are:
 ID, Goal, Pledged, deadline, launched_at, Backers_count, Percentage Funded, Average Donation, Date Created Conversion,  Date Ended Conversion, Year. 
 The Nominal Categorical variables are: Name, Blurb, Outcomes, Country, Currency, Category and Subcategory, Parent Category, Subcategory. 
-The Binary Categorical variables consist of just spotlight. Using this data, we can extract a solution, and create charts to help our client visualize her solution to her problem. 
+The Binary Categorical variables consist of staff_pick and spotlight. Using this data, we can extract a solution, and create charts to help our client visualize her solution to her problem. 
 
 _**ID**_ - Numerical value identifier for the row of data.  
 _**Name**_ - Name of the fundraiser  
@@ -22,7 +22,7 @@ _**Country**_ - An two letter abbreviation of the country the fundraiser is curr
 _**Currency**_ - The type of currency the fundraiser is using for their goal and pledged amounts.  
 _**deadline**_ - Unix timestamp as to when the fundraiser is due to conclude  \
 _**launched_at**_ - Unix timestamp as to when the fundraiser is created  \
-_**staff_pick**_ - Signifies if the fundraiser were favourited by the staff \
+_**staff_pick**_ - Signifies if the fundraiser were favourited by the staff (True or False) \
 _**backers_count**_ - The amount of people who pledged to the fundraiser \
 _**spotlight**_ - True if the fundraiser requires a spotlight, false if it does not \
 _**Category and Subcategory**_ - Consists of two lists of main category and sub category to help sort the fundraisers into different groups \
