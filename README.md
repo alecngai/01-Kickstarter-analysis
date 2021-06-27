@@ -21,7 +21,7 @@ _**Outcome**_ - Consists of 4 states:
 _**Country**_ - An two letter abbreviation of the country the fundraiser is currently located. \
 _**Currency**_ - The type of currency the fundraiser is using for their goal and pledged amounts.  
 _**deadline**_ - Unix timestamp as to when the fundraiser is due to conclude  \
-_**launched_at**_ - Unix timestamp as to when the fundraiser is created 
+_**launched_at**_ - Unix timestamp as to when the fundraiser is created  \
 _**staff_pick**_ - Signifies if the fundraiser were favourited by the staff \
 _**backers_count**_ - The amount of people who pledged to the fundraiser \
 _**spotlight**_ - True if the fundraiser requires a spotlight, false if it does not \
