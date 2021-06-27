@@ -80,7 +80,16 @@ _**Percentage Successful**_ - Percentage Succesful, calcualted by Number of Succ
 _**Percentage Failed**_ - Percentage Failed, calcualted by Number of Failed divided by Total projects \
 _**Percentage Cancelled**_ - Percentage Succesful, calcualted by Number of Failed divided by Total projects  
 
+The main objective of this chart is to determine wether setting a specific goal price will affect the success of the fundraiser. We can see the most successful fundraisers (75.81% to 72.66%) are set with lower goals of less than 1,000 to 5,000, except for the range of 35,000 to 45,000, which also has a high success rate (66.67%). This chart takes into account the number of successful fundraisers divided by total projects to determine a percentage of successful fundraisers.  It is clear that the percentage successful,is also affected by the amount of fundraisers,  we can see that there are a total of 720 Plays in the goal range of 0 to 5000, while only 9 in the range 35,000 to 45,000. Roughly 2 in 3 fundraisers are successful when they set their goals to 35,000 to 45,000, however, the sample data of only 9 plays is quite low so the number could be biased. 
+ 
+![Goals_Based_on_Outcome_for_Theater](https://github.com/alecngai/Kickstarter-analysis/blob/main/Resources/Goals_Based_on_Outcome_for_Theater.png)
 
+If we look at this next chart which is the same as previous except it is filtering by Theater we can still see the same hypothesis stands,  however we must take note the the amount of fundraisers changed from 9 to 15 for the range 35,000 to 45,000. We can concluded that there is some sort of trend as the Percentage Successful actually increased if not stayed the same for these ranges from 66.67% to 75%.00,  however,  due to the small amount of fundraisers, the affects of a single fundraiser can affect this percentage of successful which could artifically inflate this value giving us a false conclusion to our hypothesis. 
+
+
+![Goals_Based_on_Outcome_for_All](https://github.com/alecngai/Kickstarter-analysis/blob/main/Resources/Goals_Based_on_Outcome_for_All.png)
+
+Now we look at all the fundraisers as a whole, disregarding what category they belong too, we can see the trend of the lower the amount the higher the success rate, it averages out around 51.44% from 5,000 to 45,000. Then drops to low 35.29% to 21.74% from 45,000 to greater than 50,000. We can conclude that the lower the goal the higher percentage of success, anything greater than $5,000 will have a lower rate of success and is not worth the risk. If Lousie does have a high risk tolerance, then we can recommend her to set the goal of between 35,000 to 45,000 as it is still the highest average of 54.17% to 56.76%.
  
 
 ### Challenges and Difficulties Encountered
