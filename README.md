@@ -18,9 +18,9 @@ _**Outcome**_ - Consists of 4 states:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failed - The fundraiser did not get enough money pledged to reach its goal  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Live - The fundraiser is currently still on-going  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful - The fundraiser has concluded and has more or equal amount of money pledged to their goal \
-_**Country**_ - An two letter abbreviation of the country the fundraiser is currently located. 
+_**Country**_ - An two letter abbreviation of the country the fundraiser is currently located. \
 _**Currency**_ - The type of currency the fundraiser is using for their goal and pledged amounts.  
-_**deadline**_ - Unix timestamp as to when the fundraiser is due to conclude  
+_**deadline**_ - Unix timestamp as to when the fundraiser is due to conclude  \
 _**launched_at**_ - Unix timestamp as to when the fundraiser is created 
 _**staff_pick**_ - Signifies if the fundraiser were favourited by the staff \
 _**backers_count**_ - The amount of people who pledged to the fundraiser \
