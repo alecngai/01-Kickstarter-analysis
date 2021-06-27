@@ -104,6 +104,7 @@ _**Percentage Cancelled**_ - Percentage Succesful, calcualted by Number of Faile
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First conclusion is that the best months to launch your fundraiser is May and June, as grants the highest percentage of success out of all the months. The second conclusion is to avoid Decemeber, this was the lowest out of all the months. We can also see that the number of successes is porportional to the number of fundraisers, so we can see that most fundraisers are laucnhed between April to August, however with the trend we can conclude that the best option for Louise is to launch in May, as it has the highest success rate, and to avoid december. 
 
 - What can you conclude about the Outcomes based on Goals?
